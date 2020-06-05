@@ -14,4 +14,15 @@ This repository will demonstrate the basic structure for a generic java project.
    * [Usage](#usage)
 <!--te-->
 
-## [File Structure]
+## File Structure
+```
+├── build.xml
+├── LICENSE
+├── README.md
+└── src
+    └── main
+        └── java
+            └── AntForDummies
+                └── App.java
+
+```
