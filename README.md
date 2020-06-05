@@ -1,2 +1,7 @@
-# AntForDummies
-Repo covering the basics of ant.
+# AntForDummies#
+This repository will demonstrate the basic structure for a generic java project.
+
+***
+
+
+
