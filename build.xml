@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
+<!-- Apache Ant(TM) version 1.10.7 compiled on October 24 2019 -->
+
 <project default="main" name="Create Runnable Jar for this example">
 
   <property name="projectName" value="AntForDumies" />
