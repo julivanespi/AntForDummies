@@ -9,6 +9,13 @@
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "AntForDummies.App",
+            "projectName": "AntForDummies_1e394d25"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "AntForDummies.App",
             "projectName": "AntForDummies_3e993dc5"
         }
     ]
